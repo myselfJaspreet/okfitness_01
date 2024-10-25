@@ -1,0 +1,78 @@
+
+*{font-family: "Ubuntu", serif;
+    font-weight: 200;}
+    
+    
+    
+    p {
+    background-color: beige;
+    color: rgb(16, 3, 83);
+    text-align: center;
+    font-size: 30px;
+}
+
+h1{
+    color:rgb(9, 0, 53);
+    background-color: beige;
+    border-radius: 10PX;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom:10PX ;
+    
+  }
+
+footer {
+    background-color: #04001a;
+    color: #fff;
+    
+    text-align: center;
+    margin-top: 1px;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  footer a {
+    color: #ffffff;
+    text-decoration: underline;
+  }
+  
+  footer a:hover {
+    color:aqua;
+  }
+  
+  .footer-social {
+    margin-top: 10px;
+  }
+  
+  .footer-social a {
+    margin-right: 5px;
+  }
+
+.container{
+text-align: center;
+font-family: "Ubuntu", serif;
+padding-top: 100px;
+line-height: 50px;
+font-size:30px ;
+padding-bottom: 0px;
+
+}
+
+#formInput2{
+    border-radius: 7px;
+}
+#formInput3{
+    border-radius: 7px;
+}
+#formInput1{
+    border-radius: 7px;
+}
